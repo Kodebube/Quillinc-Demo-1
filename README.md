@@ -13,3 +13,6 @@ Enjoy!!!😊
 # Interface on a Laptop / Large Screen
 ![Desktop 1](https://github.com/Kodebube/Quillinc-Demo-1/assets/137894304/f74d00be-6574-49ed-9af1-a6444e9b08a9)
 ![Desktop 2](https://github.com/Kodebube/Quillinc-Demo-1/assets/137894304/43f03343-db89-4de5-b9b9-e910c939031b)
+
+
+The website is live at: https://kodebube.github.io/Quillinc-Demo-1/
